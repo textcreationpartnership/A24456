@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of Dr Assheton's proposal (as improved and managed by the worshipful Company of Mercers, London) for the benefit of widows of clergymen and others, by settling joyntures and annuities at the rate of thirty per cent</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24456</idno>
+            <idno type="STC">Wing A203</idno>
+            <idno type="STC">ESTC R1254</idno>
+            <idno type="EEBO-CITATION">11949059</idno>
+            <idno type="OCLC">ocm 11949059</idno>
+            <idno type="VID">51359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 46:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of Dr Assheton's proposal (as improved and managed by the worshipful Company of Mercers, London) for the benefit of widows of clergymen and others, by settling joyntures and annuities at the rate of thirty per cent</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <extent>[2], 20, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Later published with title: A full account of the rise, progress, and advantages of Dr. Assheton's proposal.  Cf. BM</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mercers' Company (London, England)</term>
+               <term>Survivors' benefits.</term>
+               <term>Clergy --  Pensions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="16" facs="tcp:51359:1"/>
+            <pb facs="tcp:51359:1" rendition="simple:additions"/>
+            <p> 
+               <hi>AN ACCOUNT OF D<hi rend="sup">r</hi>
+               </hi> Aſſheton<hi>'s PROPOSAL (As Improved and Managed by the Worſhipful Company of</hi> Mercers, London) <hi>for the Benefit of</hi> Widows <hi>OF</hi> Clergymen <hi>and</hi> Others;</p>
+            <p>
+               <hi>By Settling</hi> Joyntures <hi>and</hi> Annuities <hi>at the Rate of</hi> Thirty per Cent.</p>
+            <q>
+               <p>Whatſoever thy hand findeth to do, do it with thy might: for there is no work, nor de<g ref="char:EOLhyphen"/>vice, nor knowledge, nor wiſdom in the Grave whither thou goeſt, <bibl>
+                     <hi>Eccleſ.</hi> 9. 10.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>Plead for the Widow, <bibl>
+                     <hi>Iſaiah</hi> 1. 17.</bibl>
+               </p>
+            </q>
+            <p>LONDON: <hi>Printed for</hi> B. Aylmer, <hi>againſt the</hi> Royal Exchange <hi>in</hi> Cornhil. 1699.</p>
+            <pb facs="tcp:51359:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51359:2" rendition="simple:additions"/>
+            <head>An ACCOUNT OF D<hi rend="sup">r</hi> 
+               <hi>Aſſheton</hi>'s PROPOSAL, <hi>&amp;c.</hi>
+            </head>
+            <p>TO Relieve poor <hi>Widows</hi> of the <hi>Clergy,</hi> is a truly Charitable Work. But to find out ſome <hi>Expedient,</hi> whereby the Poverty of ſuch Perſons may for the fu<g ref="char:EOLhyphen"/>ture be prevented, is a more deſirable Un<g ref="char:EOLhyphen"/>dertaking.</p>
+            <p>In order to which good Deſign, the Oc<g ref="char:EOLhyphen"/>caſions of ſuch Poverty muſt firſt be inqui<g ref="char:EOLhyphen"/>red; and how it comes to paſs, that the Re<g ref="char:EOLhyphen"/>licts of ſome Churchmen are expoſed to ſo much Want. Which being diſtinctly known and conſidered, we ſhall then better be ena<g ref="char:EOLhyphen"/>bled to apply the Remedy.</p>
+            <pb n="2" facs="tcp:51359:3"/>
+            <p> And, <hi>Firſt,</hi> Several <hi>Church-Livings</hi> (being Impropriate) are of ſo ſmall a value, that the <hi>Incumbents</hi> are ſcarce able to <hi>Subſiſt,</hi> much leſs can they expect to make Proviſion for Poſterity.</p>
+            <p>This is indeed a very ſad Truth. And though there is a way to redreſs this Grie<g ref="char:EOLhyphen"/>vance, yet it is too big for our preſent Thoughts. And therefore,</p>
+            <p>
+               <hi>Secondly,</hi> It muſt further be acknowledged, That ſome <hi>Churchmen</hi> who have competent Preferments, do not yet make over-plentiful Proviſion for their <hi>Wives</hi> and Children. And the cauſe ſeems to be this:</p>
+            <p>Theſe <hi>Gentlemen,</hi> though otherwiſe well Deſcended and of good Families; yet being younger Brothers, or the Sons of ſuch, they have ſeldom any Eſtates in <hi>Land;</hi> but ac<g ref="char:EOLhyphen"/>cording to the Cuſtom of our Country, ei<g ref="char:EOLhyphen"/>ther a Sum of <hi>Money,</hi> or ſome yearly Annui<g ref="char:EOLhyphen"/>ty for their Lives: The Effects of which be<g ref="char:EOLhyphen"/>ing uſually expended in a Chargeable Edu<g ref="char:EOLhyphen"/>cation, when the neceſſity of their Affairs doth incline them to Marry, they cannot expect conſiderable Portions with their <hi>Wives,</hi> becauſe for want of <hi>real Eſtates,</hi> they are not in a Capacity to ſettle <hi>Joyntures</hi> upon them. Hence it too often comes to paſs; That a free and generous Way of living, a ſcanted Portion, and a fruitful Wife (who brings a
+<pb n="3" facs="tcp:51359:3" rendition="simple:additions"/> Charge without a Competency to maintain it) do ſo entangle his Affairs, that our ho<g ref="char:EOLhyphen"/>neſt <hi>Churchman</hi> is not only diſturbed in his Thoughts, diverted from his <hi>Studies</hi> with per<g ref="char:EOLhyphen"/>plexing Cares, but alſo is ſo clogged with the Neceſſities of a <hi>Family</hi> and other Ex<g ref="char:EOLhyphen"/>pectations, that his Widow is many times left in a very mean, if not indigent Condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>If therefore ſuch an Expedient can be found, whereby <hi>Clergymen</hi> may, upon eaſy Terms, ſettle competent <hi>Joyntures</hi> upon their <hi>Wives;</hi> if, for inſtance, they may be enabled to ſecure them <hi>Thirty per Cent.</hi> to be yearly paid during their Natural Lives; This would not only take off the Reproach of <hi>Steepl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>houſe</hi> Joyntures, but would alſo encourage that <hi>Hoſpitality</hi> which is an Ornament to their Profeſſion. They may then be obliging to their Pariſhioners, Charitable to the Poor, and may live without Diſtraction. And though their Death ſhould be ſudden and unexpected, yet their Wives are competent<g ref="char:EOLhyphen"/>ly provided for. The very Thoughts of which will compoſe their Spirits, raiſe their Parts, and make the whole Courſe of their Lives comfortable and eaſy to them.</p>
+            <p>And not only <hi>Churchmen,</hi> but alſo all other Orders of Men may receive the Benefit of this Propoſal.</p>
+            <pb n="4" facs="tcp:51359:4"/>
+            <p> There are ſeveral <hi>Phyſicians, Lawyers, Mer<g ref="char:EOLhyphen"/>chants, Traders,</hi> &amp;c. who, during their own Lives, are either Men of competent Eſtates, or have the Credit to be thought ſo: and conſequently their Wives are ſuitably main<g ref="char:EOLhyphen"/>tained. But at their Deaths, <hi>their</hi> Wives (as well as thoſe of the <hi>Clergy)</hi> are ſometimes left in a mean, if not indigent Condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For as a <hi>Churchman</hi>'s Preferments are on<g ref="char:EOLhyphen"/>ly for his Life; ſo neither can a <hi>Phyſician</hi> Practice, nor a <hi>Lawyer</hi> Plead in the other World. I have therefore ſometimes won<g ref="char:EOLhyphen"/>der'd, why the Clergy ſhould be upbraided with <hi>Steeple-houſe</hi> Joyntures: Since the Wives of other Profeſſions, are in this reſpect as liable to be expoſed as the Clergy.</p>
+            <p>For as the Clergy (who are of a Gene<g ref="char:EOLhyphen"/>rous Diſpoſition) do too often Live above their preſent Preferments; ſo <hi>Phyſicians</hi> and <hi>Lawyers</hi> do ſometimes yearly expend to the utmoſt of their Practice. In ſuch Caſes (which too often happen) it muſt needs be acknowledg'd a great Advantage to ſuch Perſons, to have 30, or 60, or 90 <hi>l. per Ann.</hi> Settled upon their Wives, by way of Joyn<g ref="char:EOLhyphen"/>ture or Rent-charge, in caſe they ſurvive them.</p>
+            <p>Nor is this Propoſal leſs uſeful to <hi>Traders,</hi> than to Men of Profeſſions.</p>
+            <pb n="5" facs="tcp:51359:4" rendition="simple:additions"/>
+            <p> For though Trade is a Gainful, yet it is an hazardous and uncertain way of Living; Wherein the moſt Sober, Sagacious, and Induſtrious Perſon may without his own fault, be ſunk and ruined by the miſcar<g ref="char:EOLhyphen"/>riage of others.</p>
+            <p>The Falſeneſs of a Partner, or Treachery of a Correſpondent, with many other Acci<g ref="char:EOLhyphen"/>dents, may blaſt him in a moment.</p>
+            <p>And though he may make ſome tolerable Shift to Trade on (as we phraſe it) and may keep his Shop open, even during his Life; yet ſince he lives only by his Credit, it hence unavoidably follows at his Death, that his Wife (who was ignorant of his In<g ref="char:EOLhyphen"/>trigues) inſtead of her <hi>Thirds</hi> (the only Joynture ſettled for a 1000, or 1500 <hi>l.)</hi> is ſadly entertained with the ſurprizing News, <hi>That All is ſeized.</hi>
+            </p>
+            <p>Now had this Perſon immediately after his Marriage, when his Portion was Re<g ref="char:EOLhyphen"/>ceived, or at any other time when he flou<g ref="char:EOLhyphen"/>riſhed in Money, had he, I ſay, then Paid in <hi>Three,</hi> or but <hi>Two</hi> Hundred Pounds to the <hi>Mercers</hi> Company; what a ſeaſonable Sup<g ref="char:EOLhyphen"/>port would the Effects of it have been, to his now poor diſconſolate diſtreſſed Wi<g ref="char:EOLhyphen"/>dow?</p>
+            <pb n="6" facs="tcp:51359:5"/>
+            <p> From theſe Premiſſes it appears, That the Advantages of this Propoſal (even to All Orders and Profeſſions) are not to be doubt<g ref="char:EOLhyphen"/>ed. But the chief Queſtion is, <hi>How theſe Joyntures can be ſecured?</hi> What Security ſhall be given to the Subſcribers, that their Wi<g ref="char:EOLhyphen"/>dows ſhall not be Defrauded, but that the Joyntures and Annuities here promiſed ſhall be punctually paid them?</p>
+            <p>This is that which for many years did ex<g ref="char:EOLhyphen"/>erciſe Dr. <hi>Aſſheton</hi>'s Thoughts.</p>
+            <p>For though he was encouraged by ſeveral knowing Judicious Perſons (whom he had conſulted, and to whom he had communi<g ref="char:EOLhyphen"/>cated his Propoſal) that the Deſign was Pra<g ref="char:EOLhyphen"/>cticable; yet where to fix it, or how to pro<g ref="char:EOLhyphen"/>vide ſuch a Fund as might ſecure the Sub<g ref="char:EOLhyphen"/>ſcribers, was a matter of ſome Difficulty, not only to himſelf, but alſo to the Under<g ref="char:EOLhyphen"/>taking.</p>
+            <p>As to <hi>Himſelf,</hi> He was fully convinced, not only of the Trouble and Charge in ma<g ref="char:EOLhyphen"/>naging ſuch a Work, but alſo of the hazard to his Reputation if it ſhould miſcarry. For the generality of Men are very unjuſt in their Cenſures, and will allow nothing to be well Deſigned, that ſhall want Suc<g ref="char:EOLhyphen"/>ceſs.</p>
+            <pb n="7" facs="tcp:51359:5" rendition="simple:additions"/>
+            <p> However, he did reſolve to go on; and if poſſible, to finiſh what he had ſo long Pro<g ref="char:EOLhyphen"/>jected.</p>
+            <p>His <hi>Firſt</hi> Addreſs was to the <hi>Corporation</hi> of the <hi>Clergy.</hi> Who indeed received him with the greateſt Kindneſs and Reſpect; But withal Declared, for Reaſons not now to be repeated, that they were not capable to accept his Propoſal.</p>
+            <p>His next Application was to the <hi>Royal Bank</hi> of <hi>England.</hi> Where he did not doubt of ſufficient Security for the Subcribers. But for ſome Reaſons, which are obvious to Men of Buſineſs, this Royal Bank, at pre<g ref="char:EOLhyphen"/>ſent, is not ſo Modell'd, as to manage this Propoſal.</p>
+            <p>Though thus far diſappointed, yet Dr. <hi>Aſſheton</hi> was not Diſcouraged. And be<g ref="char:EOLhyphen"/>ing admoniſhed, that a <hi>City-Company</hi> was ve<g ref="char:EOLhyphen"/>ry capable to Undertake his Propoſal: And that the <hi>Mercers</hi> was the Beſt, both for Ma<g ref="char:EOLhyphen"/>nagement and Revenue, he immediately applied himſelf to that Company. And ha<g ref="char:EOLhyphen"/>ving firſt waited upon the preſent <hi>Maſter,</hi> (whoſe known Worth, and inclination to promote Charitable Deſigns, gave him great encouragement of Succeſs) he next attend<g ref="char:EOLhyphen"/>ed the <hi>Wardens,</hi> and ſeveral others of the Members.</p>
+            <pb n="8" facs="tcp:51359:6"/>
+            <p> After ſome time, a General Court of the ſaid Company was held, on <hi>Friday</hi> the 11th of <hi>November</hi> 1698. Where Dr. <hi>Aſſheton</hi>'s Propoſal was read to the ſaid Company. And the Doctor being then asked, what he had further to ſay; he Replyed to this Ef<g ref="char:EOLhyphen"/>fect, <hi>viz.</hi>
+            </p>
+            <q>He was very ſenſible, that Wiſe men, who are not apt to be impoſed on, do look upon Pro<g ref="char:EOLhyphen"/>jects with Caution, and at a diſtance. And therefore he was not ſo vain as to expect, that this Propoſal ſhould be unanimouſly received, after one ſingle Reading, at a General Court. For the Reaſons of ſuch an Undertaking are not always obvious, but require ſome Thought and Applicati<g ref="char:EOLhyphen"/>on of Mind. He therefore humbly moved, That a Committee might be appointed, to conſider and examine the Reaſons of the Propoſal, together with ſuch a Method, as ſhould be thought moſt Expedient for the Management of it.</q>
+            <p>Whereupon a <hi>Committee</hi> was appointed to conſider of the ſame, and what Security the Company could give to the Subſcribers.</p>
+            <p>The which Committee (after ſeveral Meetings, and Diſcourſes with Dr. <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſheten)</hi> made <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Report to another General Court the 23<hi>d</hi> of <hi>December,</hi> 1698. Which Court having read the Report of the Committee, d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuſpend their Reſolution of the ſame for that time. And another General Court was
+<pb n="9" facs="tcp:51359:6" rendition="simple:additions"/> appointed to be held the <hi>13th</hi> of <hi>January</hi> following, that ſo all the Members of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſaid Company might have time to conſider <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſaid Propoſal, and the Report of the Committee thereupon; that ſo they might the better be enabled to give their Reſoluti<g ref="char:EOLhyphen"/>ons in the whole Affair. And at this <hi>Third</hi> and Laſt General Court, the <hi>Company</hi> did ac<g ref="char:EOLhyphen"/>cept of the ſaid Propoſal. And did Publiſh and Declare their Acceptance in Manner and Form following.</p>
+            <div type="part">
+               <head>
+                  <hi>By the</hi> Wardens <hi>and</hi> Commonalty <hi>of the Myſtery of the</hi> MERCERS, <hi>at</hi> Mercers-Hall <hi>in</hi> Cheapſide, London, <hi>the 8th Day of</hi> Februa<g ref="char:EOLhyphen"/>ry, 1698.</head>
+               <p>THE Reverend <hi>William Aſſheton,</hi> Doctor in Divinity, Rector of <hi>Beckenham</hi> in <hi>Rent,</hi> and Chaplain to his Grace the Duke of <hi>Ormond,</hi> having out of a Charitable De<g ref="char:EOLhyphen"/>ſign, for the Maintenance and Relief of <hi>Widows of the Clergy,</hi> (which very frequently are left in a poor Condition when their Huſ<g ref="char:EOLhyphen"/>bands dye) employ'd his Thoughts to con<g ref="char:EOLhyphen"/>ſider of a Way for their Relief and Support;
+<pb n="10" facs="tcp:51359:7"/> and thereupon thought of a Propoſal, in which he includes alſo others beſide <hi>Clergy<g ref="char:EOLhyphen"/>men,</hi> viz. <hi>Phyſicians, Lawyers, Merchants, Tra<g ref="char:EOLhyphen"/>ders,</hi> or any other Perſons that ſhall Subſcribe the Sum of 100 <hi>l.</hi> or more, during the Time of their joint Lives; in caſe the Husband ſhall die, and leave his Wife a Widow, that then there ſhould be paid her, during her Life, the Sum of 30 <hi>l.</hi> a Year <hi>per Gent.</hi> free of all Charges; at the two uſual Feaſts of the Annunciation of the Bleſſed <hi>Virgin Mary,</hi> and St. <hi>Michael</hi> the <hi>Archangel;</hi> and that the Sum to be Subſcribed ſhould be limited to 100000 <hi>l.</hi> And in caſe the Wife dye, du<g ref="char:EOLhyphen"/>ring her Husband's Life-time, the ſame to go to the Benefit of thoſe that did undertake the ſame.</p>
+               <p>The ſaid Reverend Dr. <hi>Aſſheton</hi> conſidering w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here the ſaid Subſcription-Money might be lodged ſafely, and reaſonable Security given for the due Payment of the Widows, did think it could not be better ſecured than in the Hands of the Worſhipful Company of <hi>Mercers, London;</hi> and did at a General Court of the ſaid Company, held on <hi>Friday</hi> the 11th of <hi>Nov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mber</hi> 1698, make this Propoſal to the ſaid Company, who thereupon ap<g ref="char:EOLhyphen"/>pointed a Commi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tee to conſider of the ſame, and what Secu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Company could give; which Committe had ſeveral Meetings th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>upon;
+<pb n="11" facs="tcp:51359:7" rendition="simple:additions"/> and having had ſeveral Diſcourſes with Dr. <hi>Aſſheton,</hi> and acquainted him what Eſtate they had to ſettle for Security, being clear rents, 2888 <hi>l.</hi> 8 <hi>s.</hi> 10 <hi>d. per. Ann.</hi> (be<g ref="char:EOLhyphen"/>ſides the Payments by the Benefactors to be paid out of the ſame;) which, by a mode<g ref="char:EOLhyphen"/>rate Calcuation would yield, when the Lea<g ref="char:EOLhyphen"/>ſes come out, above 13500 <hi>l. per Annum</hi> clear, as aforeſaid; And the ſaid Dr. <hi>Aſſheton</hi> judging the ſame to be reaſonable Security, the ſaid Committee made their Report to a General Court the 23d of <hi>Decemb.</hi> 1698. Which Court having read the Report of the Committee, did ſuſpend their Reſolution of the ſame for that time, and another Ge<g ref="char:EOLhyphen"/>neral Court was appointed to be held the 13th of <hi>January</hi> following; that ſo all the Members of the ſaid Company might have time to conſider of the ſaid Propoſal, and the Report of the Committee thereupon; that ſo they might the better be enabled to give their Reſolutions in the whole Affair; And at the ſaid General Court the Company did accept of the ſaid Propoſal. And do hereby publiſh and declare,</p>
+               <p n="1">1. That in caſe 100000 <hi>l.</hi> ſhall be ſubſcri<g ref="char:EOLhyphen"/>bed and paid in to the Company in ſuch manner as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hereafter mentioned; The ſaid Company do undertake to pay unto the
+<pb n="12" facs="tcp:51359:8"/> Widows of the Subſcribers, according to the aforeſaid Propoſition, 30 <hi>l. per Cent. per Ann.</hi> free of Taxes and Charges, at the two uſual Feaſts of the Annunciation of the Bleſſed <hi>Virgin Mary,</hi> and St. <hi>Michael</hi> the <hi>Archangel.</hi>
+               </p>
+               <p n="2">2. That for better Security of the Pay<g ref="char:EOLhyphen"/>ments, as ſoon as the ſaid 100000 <hi>l.</hi> ſhall be Subſcribed, the ſaid Company will ſet<g ref="char:EOLhyphen"/>tle and convey in due Form of Law the Lands, Houſes and Eſtate before mention<g ref="char:EOLhyphen"/>ed, in Truſtees, for the due payment of the ſaid Annuities.</p>
+               <p n="3">3. That all married Clergymen, and o<g ref="char:EOLhyphen"/>ther married Perſons, (Except as hereafter is Excepted,) that inhabit in the Kingdom of <hi>England,</hi> and do not exceed the Age of 60 Years at the time of the Payment of the Money, and receiving the Company's Bond, and are then in good and perfect Health, and have Subſcribed any Sum not leſs than 50 <hi>l.</hi> nor exceeding the Sum of 300 <hi>l.</hi> in caſe they die in the Kingdom of <hi>England,</hi> and leave their Wives Widows, the ſaid Widows ſhall receive, as before-mentioned, the Sum of 30 <hi>l.</hi> yearly for every 100 <hi>l.</hi> ſo Subſcri<g ref="char:EOLhyphen"/>bed; and ſo proportionably for a greater or leſſer Sum, as before-mentioned.</p>
+               <p n="4">
+                  <pb n="13" facs="tcp:51359:8" rendition="simple:additions"/> 4. That every Perſon at the time of his Subſcription (which ſhall be made in Per<g ref="char:EOLhyphen"/>ſon) ſhall expreſs the Place of his Abode, the Name of his Wife, and his and her ſeve<g ref="char:EOLhyphen"/>ral Age in ſuch manner as is hereafter men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p n="5">5. That no Perſon that goes to Sea, nor Soldier that goes into the Wars, ſhall be ad<g ref="char:EOLhyphen"/>mitted to Subſcribe to have the Benefit of this Propoſal, in regard of the Caſualties and Accidents that they are more particu<g ref="char:EOLhyphen"/>larly liable to.</p>
+               <p n="6">6. That the Book of Subſcriptions ſhall be laid open at <hi>Mercers-Hall</hi> on or before the Firſt day of <hi>March</hi> 1698, and ſhall continue to the 24th day of <hi>June</hi> 1699, (in caſe the 100000 <hi>l.</hi> be not Subſcribed ſooner) and Members of the Company ſhall attend to take the ſaid Subſcriptions on <hi>Tueſdays, Wed<g ref="char:EOLhyphen"/>neſdays</hi> and <hi>Fridays</hi> every Week during that time, between the Hours of 9 and 12 in the Forenoon, and 3 and 6 in the Afternoon.</p>
+               <p n="7">7. That as ſoon as the ſaid 100000 <hi>l.</hi> is Subſcribed, publick Notice ſhall be given in the <hi>Gazette;</hi> and all Perſons that have Sub<g ref="char:EOLhyphen"/>ſcribed are then, within 30 Days next follow<g ref="char:EOLhyphen"/>ing, to Pay in the Moneys by them Subſcribed,
+<pb n="14" facs="tcp:51359:9"/> at <hi>Mercers-Hall</hi> to the ſaid Company, for which purpoſe, Members of the ſaid Com<g ref="char:EOLhyphen"/>pany ſhall attend on the Days and Times aforeſaid.</p>
+               <p n="8">8. That on the Payment of the Mone<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> the Perſon ſhall have a Writing under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Seal of the Company, acknowledging the Receipt thereof; and ingaging, That if his Wife be left a Widow, ſhe ſhall receive the Moneys in proportion to his Subſcription a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before ſpecified, but unleſs the Money be actually paid within the Time limited, the Widow to have no Benefit by the Subſcrip<g ref="char:EOLhyphen"/>tion; and at the ſame time the ſaid Perſon Subſcribing, ſhall give a Bond to the Com<g ref="char:EOLhyphen"/>pany, That in caſe his Wife ſhall dye before him, to give notice to the Company thereof within one Month after her Deceaſe.</p>
+               <p n="9">9. That any Widow that ſhall have Right to receive any Annuity by this Subſcription<g ref="char:punc">▪</g> ſhall give notice of the Time of her Huſ<g ref="char:EOLhyphen"/>band's Death to the Company within one Month after his Deceaſe; and when ſhe comes to receive the Benefit of this Propoſal, ſhall bring a Certificate, Signed by the Mi<g ref="char:EOLhyphen"/>niſter, Church-Warden or Church-Wardens, and Pariſh-Clerk of the Place where he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Husband died and was buried, if her Huſ<g ref="char:EOLhyphen"/>band
+<pb n="15" facs="tcp:51359:9" rendition="simple:additions"/> was not a Miniſter; but if her Huſ<g ref="char:EOLhyphen"/>band was the Miniſter of the Pariſh where he was buried, then to have the Miniſter's Hand of the next neighbouring Pariſh; and the other Hands as before-mentioned.</p>
+               <p n="10">10. In caſe it ſhall happen that any Man who has Subſcribed, ſhall voluntarily make away himſelf, or by any Act of his, occa<g ref="char:EOLhyphen"/>ſion his own Death, either by Duelling, or committing any Crime whereby he ſhall be Sentenced and put to Death by Juſtice; in any or either of thoſe Caſes his Widow to receive no Annuity, but upon delivering up the Company's Bond, to have the Subſcrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion money paid to her.</p>
+               <p n="11">11. In caſe any Perſon that ſhall Sub<g ref="char:EOLhyphen"/>ſcribe ſhall not pay in his Money within the Time limited, ſuch Perſon's Subſcription ſhall be eſteemed null and void, and the Company may admit any other Perſon, duly qualified, to Subſcribe in his ſtead.</p>
+               <floatingText xml:lang="eng" type="form_template">
+                  <body>
+                     <head>The Form of the Subſcription.</head>
+                     <p n="12">12. <hi>I A. B.</hi> inhabiting in the Pariſh of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> in the <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> do Sub<g ref="char:EOLhyphen"/>ſcribe and Promiſe to pay <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Pounds on the Terms before-mentioned, for the Benefit of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap>
+                        <pb n="16" facs="tcp:51359:10"/> my now Wife, Aged <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Years, the Daugh<g ref="char:EOLhyphen"/>ter of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> in caſe I dye before her.</p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="form_template">
+                  <body>
+                     <head>The Obligation of the Company.</head>
+                     <p n="13">13. WE the Wardens and Commonalty of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Myſtery of the <hi>Mercers</hi> of the Ci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of <hi>London,</hi> do acknowledge to have Receiv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of <hi>A. B.</hi> Inhabitant in the Pariſh of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> in the <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> the Sum of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Pounds, which he hath Subſcri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> for the Benefit of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Aged <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Years, the Daughter of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> his preſent Wife; And we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> promiſe and oblige our Selves, and our Succeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, in caſe the ſaid <hi>A. B.</hi> ſhall Dye (Except in ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> manner as is Excepted in the General Propoſal) before his ſaid Wife, and leave her a Widow, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> pay unto her, during her Life, the Sum of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Yearly, free of all Charges, being 30 <hi>l per Cent. per Annum</hi> of the ſaid <hi>A. B.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Subſcription, at the two uſual Feaſts of the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>nunciation of the Bleſſed <hi>Virgin Mary,</hi> a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> St. <hi>Michael</hi> the <hi>Archangel:</hi> The firſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aym<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> to be made on the firſt of the ſaid Feaſt-days t<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> ſhall happen ſix Months or more after the Dece<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> of the ſaid <hi>A. B.</hi> ſhe producing this Obligat<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> and due Certificates of her Husband's Death. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the which Payment we bind our Selves and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <pb n="17" facs="tcp:51359:10" rendition="simple:additions"/> Succeſſors firmly by theſe Preſents. In Teſtimony whereof, We have hereunto affixed the Seal of the ſaid Company the <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> Day of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> 
+                        <hi>Anno Dom.</hi> 169</p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="form_template">
+                  <body>
+                     <head>14. <hi>The Bond to be given to the Com<g ref="char:EOLhyphen"/>pany,</hi>
+                     </head>
+                     <head type="sub">To be of the Penalty of the Sum Sub<g ref="char:EOLhyphen"/>ſcribed.</head>
+                     <p>
+                        <hi>The Condition to be as followeth:</hi>
+                     </p>
+                     <p>WHereas the above-bound <hi>A. B.</hi> hath Sub<g ref="char:EOLhyphen"/>ſcribed and Paid to the Wardens and Commonalty of the Myſtery of the <hi>Mercers</hi> of the City of <hi>London,</hi> the Sum of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> for the Benefit of his preſent Wife <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> the Daughter of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> and Received an Obligation from the ſaid Company for the due Payment to his ſaid Wife, of the ſum of 30 <hi>l. per Cent. per Annum,</hi> in caſe ſhe ſurvives him, during her Life. Now the Condition of this Obligation is ſuch, That in caſe his ſaid Wife ſhall dye before him, if he the above-bound <hi>A. B.</hi> ſhall within 30 Days after his ſaid Wiſe's De<g ref="char:EOLhyphen"/>ceaſe, give Notice to the ſaid Company of her Death, under his Hand and Seal, and deliver up the Obligation he had from the Company; and
+<pb n="18" facs="tcp:51359:11"/> alſo if the ſaid <hi>A. B.</hi> ſhall remove his Habitati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> or Dwelling-place, and ſhall give Notice thereof <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the ſaid Company within 30 Days of ſuch his Re<g ref="char:EOLhyphen"/>moval, with the Name of the Place and Par<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to which he is removed; And in default of N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tice to be given as aforeſaid, Then, if the ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <hi>A. B.</hi> his Executors, Adminiſtrators or Aſſigns, ſhall pay One Pound <hi>per Cent.</hi> of his Subſcription-Money for every Month he ſhall delay ſo to do; That then this Obligation to be void, and of no effect, or elſe to remain in full force.</p>
+                  </body>
+               </floatingText>
+               <p>THIS General Propoſal, now Publiſhed by the <hi>Company,</hi> is ſo plain and intel<g ref="char:EOLhyphen"/>ligible, that I will not pretend to Paraphraſe upon it. But ſhall only take notice of the <hi>Security</hi> here Propoſed. Which if ſome Per<g ref="char:EOLhyphen"/>ſons ſhall think too ſmall, they are deſired to conſider the Nature of the Eſtates to be Settled and Conveyed.</p>
+               <p>Here is a Rent of <hi>Two Thouſand Eight Hundred</hi> and odd Pounds <hi>per An.</hi> Propoſed as a Security for <hi>One Hundred Thouſand</hi> Pounds.</p>
+               <p>Indeed were this Eſtate of 2888 <hi>l. per An.</hi> now Rented at its utmoſt Extent, 'tis then undeniable the Security is not ſufficient. But when it is conſidered, That it is an improve<g ref="char:EOLhyphen"/>able Eſtate: And that this 2888 <hi>l. per An.</hi> will in time be worth above 13500 <hi>l. per An.</hi> And when it is further conſidered, That the
+<pb n="19" facs="tcp:51359:11" rendition="simple:additions"/> 100000 <hi>l.</hi> now to be paid in to the Compa<g ref="char:EOLhyphen"/>ny, by their prudent Management will pre<g ref="char:EOLhyphen"/>ſently meliorate, and improve this their Eſtate: I ſay, When theſe Things are duly conſidered, no Intelligent Perſon can pretend to be diſſatisfied with the Security here Pro<g ref="char:EOLhyphen"/>poſed. Eſpecially when it is further decla<g ref="char:EOLhyphen"/>red, That no Subſcriber is obliged to Pay in his Money, till he is fully ſatisfied with the Security. Which is to be Settled and Con<g ref="char:EOLhyphen"/>veyed in due Form of Law, as the Ableſt Council ſhall adviſe and direct.</p>
+               <p>I ſhall only add (which indeed is neceſ<g ref="char:EOLhyphen"/>ſary in this Selfiſh Projecting Age) that as Dr. <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſheton</hi> did not Project this <hi>Propoſal</hi> for his own Private Advantage, but doth ſin<g ref="char:EOLhyphen"/>cerely deſign a Publick Good: In like man<g ref="char:EOLhyphen"/>ner, the Worthy Members of the <hi>Mercers</hi> Company have undertaken to Manage this Propoſal, not from any proſpect of Advan<g ref="char:EOLhyphen"/>tage to their own private Perſons, but only out of a Generous Deſign to make the Com<g ref="char:EOLhyphen"/>pany more capable to anſwer the End and Reaſon of their Charter. Which is, To Eſtabliſh and Manage Publick Charities. And thereby to enlarge their Capacity of Doing Good.</p>
+               <p>And having often conſidered the Thing, I preſume to declare,</p>
+               <pb n="20" facs="tcp:51359:12"/>
+               <p> That the <hi>Company</hi> of <hi>Mercers,</hi> by Accep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing and Managing this Propoſal, will do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greater and more Publick Good to the whole Nation, than they could pretend to do b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> founding an Hoſpital for Widows in eve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> County of the Kingdom. And my Reaſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is this; Becauſe it is a much Nobler Chari<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo to ſupport any Perſon, as to prevent hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from being Poor, than it is to Relieve the ſame Perſon when he is actually Poor.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51359:12" rendition="simple:additions"/>
+            <head>
+               <hi>Books lately Writ by Dr.</hi> Aſſheton.</head>
+            <list>
+               <item>A Conference with an <hi>Anabaptiſt,</hi> Price 12 <hi>d.</hi>
+               </item>
+               <item>A Theological Diſcourſe of Wills. 12 <hi>d.</hi>
+               </item>
+               <item>A Diſcourſe of Death-Bed Repentance. 6 <hi>d.</hi>
+               </item>
+               <item>A Vindication of the B. <hi>Trinity.</hi> 12 <hi>d.</hi>
+               </item>
+               <item>A Diſcourſe againſt Debauchery and Pro<g ref="char:EOLhyphen"/>phaneneſs. 2 <hi>d.</hi>
+               </item>
+               <item>A Conference with an Atheiſt. 2 <hi>d.</hi>
+               </item>
+               <item>A Diſcourſe againſt Drunkenneſs, Curſing, and Swearing. 2 <hi>d.</hi>
+               </item>
+               <item>A Method of Daily Devotion. 2 <hi>d.</hi>
+               </item>
+               <item>A Method of Devotion for the Lord's-Day. 2 <hi>d.</hi>
+               </item>
+               <item>An Exhortation to the H. Communion. 2 <hi>d.</hi>
+               </item>
+            </list>
+            <p>Theſe are the Prices ſingle. But cheaper to thoſe who are ſo Charitable to give away Num<g ref="char:EOLhyphen"/>bers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
